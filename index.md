@@ -1,37 +1,59 @@
-## Welcome to GitHub Pages
+## Welcome to Soszjal bot page!
 
-You can use the [editor on GitHub](https://github.com/mareklabuzekintive/soszjal/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+See below quick start-up guide.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### FAQ / quick start-up guide
 
-```markdown
-Syntax highlighted code block
+1. What is Soszjal bot for?
 
-# Header 1
-## Header 2
-### Header 3
+To improve our communication in the office about general office annoucements (= eat-in opportunities mainly :) ).
+Some of us would like to receive (some of) announcements via some other channel than our skype office group, possible not being overflooded by all messages sent there.
 
-- Bulleted
-- List
+And by that occasion some are having fun in a nice project too! ;)
 
-1. Numbered
-2. List
+2. How is it working?
 
-**Bold** and _Italic_ and `Code` text
+To our skype office group conversation, a bot account will be added (nick name "Soszjal") that is handled by a program written by us specially for that purpose.
 
-[Link](url) and ![Image](src)
-```
+By sending a message to a bot, it will be possible to subscribe for notifications to an arbitrary email address or as private skype message. We are planning to provide possibility to add notifications to your Slack group. If you are interested in receiving sms notifications on your mobile phone, let me know (see contact section at the bottom).
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Office assistants (a.k.a. bot administrators :) ) will be sending notifications to a group as usual but it will be caught by bot and redistributed additionally to subscribers as they requested.
 
-### Jekyll Themes
+3. How that will improve our communication?
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mareklabuzekintive/soszjal/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+You will be able to receive message to an email that you receive on a mobile phone and/or as private skype message while you can keep messages on a group conversation muted or even you can leave the group (however to subscribe you need to be a member of the group - see below).
 
-### Support or Contact
+4. How about privacy - will the bot be spying us?
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Skype bots have a restriction - when added to a group, they receive only messages mentioning them - containing "@Soszjal".
+Thus, all usual chit-chat is not sent to the bot.
+
+5. How do I subscribe to notifications?
+
+To subscribe to a notification, you need to write a message on a group mentioning the bot, e.g. 
+"@Soszjal powiadamiaj mnie gdy owoce"
+Bot will ask about the details of the way how to notify user - in a private (1-1) conversation on skype.
+
+It's possible also to do it quicker:
+"@Soszjal powiadamiaj mnie gdy owoce na moj.email@intive.com"
+
+or more secretly:
+"@Soszjal powiadamiaj mnie" - bot will ask about event to notify and a channel in a 1-1 conversation.
+
+(Beacuse Soszjal is designed to handle many groups, you need to start subscription on a group conversation - if you have any ideas here, let me know).
+
+6. Still don't know how to start?
+
+Find a message from Soszjal bot in the history of our group conversation and click it's logo. You will start private conversation with the bot. 
+Send him 'pomoc' and read through the answer.
+
+Tip: right click the logo and select "Add to favourites" to have it always at hand.
+
+If you have any further questions - see below.
+
+### Further questins and contact
+
+Find me on our skype for Business or our company email (marek.labuzek@intive.com), classic skype at marek_lab.
+Marek Łabuzek
