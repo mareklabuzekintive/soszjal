@@ -53,7 +53,7 @@ Tip: right click the logo and select "Add to favourites" to have it always at ha
 
 If you have any further questions - see below.
 
-### Further questins and contact
+### Further questions and contact
 
 Find me on our skype for Business or our company email (marek.labuzek@intive.com), classic skype at marek_lab.
 Marek Łabuzek
