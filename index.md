@@ -1,6 +1,6 @@
 ## Welcome to Soszjal bot page!
 
-Some time ago I [wrote](https://mareklabuzekintive.github.io/soszjal/history) on our SMT Soszjal skype group conversation about adding a bot to it. Fast forward to today and the bot is implemented, tested with Magda and Ania and ready to be deployed!
+Some time ago I [wrote](history) on our SMT Soszjal skype group conversation about adding a bot to it. Fast forward to today and the bot is implemented, tested with Magda and Ania and ready to be deployed!
 
 This page is to give you a heads-up before adding bot to our office group conversation and collect your last feedback - so go through it and let me know if you have any further questions or ideas.
 
