@@ -1,6 +1,7 @@
 ## Welcome to Soszjal bot page!
 
-Some time ago I [wrote](history) on our SMT Soszjal skype group conversation about adding a bot to it. Fast forward to today and the bot is implemented, tested with Magda and Ania and ready to be deployed!
+Some time ago I [wrote](history) on our SMT Soszjal skype group conversation about adding a bot to it and run a poll about it, see also [here](history) about the results.
+Fast forward to today and the bot is implemented, tested with Magda and Ania and ready to be deployed!
 
 This page is to give you a heads-up before adding bot to our office group conversation and collect your last feedback - so go through it and let me know if you have any further questions or ideas.
 
@@ -49,7 +50,7 @@ or more secretly:
 Find a message from Soszjal bot in the history of our group conversation and click it's logo. You will start private conversation with the bot. 
 Send him 'pomoc' and read through the answer.
 
-Alternatively visit the [help page](https://mareklabuzekintive.github.io/soszjal/help).
+Alternatively visit the [help page](help).
 
 Tip: Right click the logo and select "Add to favourites" to have it always at hand.
 
