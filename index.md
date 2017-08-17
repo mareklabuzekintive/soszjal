@@ -35,7 +35,8 @@ Thus, all usual chit-chat is not sent to the bot.
 
 To subscribe to a notification, you need to write a message on a group mentioning the bot, e.g. 
 "@Soszjal powiadamiaj mnie gdy owoce"
-Bot will ask about the details of the way how to notify user - in a private (1-1) conversation on skype.
+Bot will ask about the details of the way how to notify user - in a private (1-1) conversation on skype
+BUT first you need to add Soszjal bot to your contacts (right click it's logo).
 
 It's possible also to do it quicker:
 "@Soszjal powiadamiaj mnie gdy owoce na moj.email@intive.com"
@@ -47,8 +48,7 @@ or more secretly:
 
 - Still don't know how to start?
 
-Find a message from Soszjal bot in the history of our group conversation and click it's logo. You will start private conversation with the bot. 
-Send him 'pomoc' and read through the answer.
+Find a message from Soszjal bot in the history of our group conversation and click it's logo. You will start private conversation with the bot. Send 'pomoc' to it and read through the answer.
 
 Alternatively visit the [help page](help).
 
