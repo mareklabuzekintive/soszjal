@@ -59,4 +59,5 @@ If you have any further questions - see below.
 ### Further questions and contact
 
 Find me on our skype for Business or our company email (marek.labuzek@intive.com), classic skype at marek_lab.
+
 Marek Łabuzek
