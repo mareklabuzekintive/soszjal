@@ -49,7 +49,7 @@ pokaż moje powiadomienia
 nie powiadamiaj mnie gdy (owoce|sushi|...)
 ```
 
-- Wypisanie się ze wszystkich powiadomień ([dlaczego](mailto:marek.labuzek@intive.com?subject=Wypisuję%20się%20z%20powiadomień%2C%20bo...))
+- Wypisanie się ze wszystkich powiadomień ([napisz dlaczego?](mailto:marek.labuzek@intive.com?subject=Wypisuję%20się%20z%20powiadomień%2C%20bo...))
 ```
 przestań mnie powiadamiać
 ```
