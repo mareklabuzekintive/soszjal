@@ -1,33 +1,19 @@
 ## Welcome to Soszjal bot page!
 
-On 23rd Feb I wrote on our office group skype conversation:
-
-_Drogi Soszjalu.
-W ramach działań gildiowo-zbrojeniowych, chcielibyśmy odpalić mały projekcik mający na celu podszlifowanie naszego doświadczenia w czatbotach i stworzyć czatbota dla naszego kanału Soszjal, który będzie powiadamiał o owocach, kanapkach i innych smakołykach na dodatkowych kanałach takich jak email, Slack, a może nawet na telefon komórkowy.
-Więcej szczegółów na stronie ankiety, na którą gorąco zapraszam, aby wypowiedzieć się za, przeciw, wesprzeć pomysłami, uwagami lub dodatkowym dobrym słowem :)
-https://marek21.typeform.com/to/Yk3gAI
-Core rozwiązania będzie w Go Lang, więc jakby ktoś chciał dołożyć swoje umiejętności w tym języku - zapraszamy.
-Czekamy na wyniki do końca przyszłego tygodnia roboczego (3 marzec 17:00)._
-
-And on 17th Mar - about the results of the poll:
-
-_Dziękujemy za udział w ankiecie. Wyniki były same pozytywne, poparło 15 osób. Przystępujemy do kolejnych faz projektu.
-Stay tuned!_
-
-And now the bot is implemented, tested with Magda and Ania and ready to be deployed!
+Some time ago I [wrote](https://mareklabuzekintive.github.io/soszjal/history) on our SMT Soszjal skype group conversation about adding a bot to it. Fast forward to today and the bot is implemented, tested with Magda and Ania and ready to be deployed!
 
 This page is to give you a heads-up before adding bot to our office group conversation and collect your last feedback - so go through it and let me know if you have any further questions or ideas.
 
 ### FAQ / quick start-up guide
 
-1. What is Soszjal bot for?
+- What is Soszjal bot for?
 
 To improve our communication in the office about general office annoucements (= eat-in opportunities mainly :) ).
 Some of us would like to receive (some of) announcements via some other channel than our skype office group, possible not being overflooded by all messages sent there.
 
 And by that occasion some are having fun in a nice project too! ;)
 
-2. How is it working?
+- How is it working?
 
 To our office skype conversation, a bot account will be added (nick name "Soszjal") that is handled by a program written by us specially for that purpose.
 
@@ -35,16 +21,16 @@ By sending a message to a bot, it will be possible to subscribe for notification
 
 Office assistants (a.k.a. bot administrators :) ) will be sending notifications to a group as usual but it will be caught by bot and redistributed additionally to subscribers as they requested.
 
-3. How that will improve our communication?
+- How that will improve our communication?
 
 You will be able to receive message to an email that you receive on a mobile phone and/or as private skype message while you can keep messages on a group conversation muted or even you can leave the group (however to subscribe you need to be a member of the group - see below).
 
-4. How about privacy - will the bot be spying us?
+- How about privacy - will the bot be spying us?
 
 Skype bots have a restriction - when added to a group, they receive only messages mentioning them - containing "@Soszjal".
 Thus, all usual chit-chat is not sent to the bot.
 
-5. How do I subscribe to notifications?
+- How do I subscribe to notifications?
 
 To subscribe to a notification, you need to write a message on a group mentioning the bot, e.g. 
 "@Soszjal powiadamiaj mnie gdy owoce"
@@ -58,12 +44,14 @@ or more secretly:
 
 (Beacuse Soszjal is designed to handle many groups, you need to start subscription on a group conversation - if you have any ideas here, let me know).
 
-6. Still don't know how to start?
+- Still don't know how to start?
 
 Find a message from Soszjal bot in the history of our group conversation and click it's logo. You will start private conversation with the bot. 
 Send him 'pomoc' and read through the answer.
 
-Tip: right click the logo and select "Add to favourites" to have it always at hand.
+Alternatively visit the [help page](https://mareklabuzekintive.github.io/soszjal/help).
+
+Tip: Right click the logo and select "Add to favourites" to have it always at hand.
 
 If you have any further questions - see below.
 
