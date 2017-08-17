@@ -2,9 +2,9 @@
 
 ### Szybki start
 
-1. Na kanale grupowym napisz znak '@', kliknij 'Soszjal' na pop-up'ie który się pojawi a potem dopisz 'pokaż dostępne powiadomienia'.
+1. Na kanale grupowym napisz znak '@', kliknij 'Soszjal' na pop-up'ie który się pojawi a potem dopisz ```pokaż wszystkie powiadomienia```.
 2. Sprawdź czy jest powiadomienie, którym jesteś zainteresowana/y.
-3. Na kanale grupowym: '@' + Soszjal i dopisz 'powiadamiaj mnie'.
+3. Na kanale grupowym: '@' + Soszjal i dopisz ```powiadamiaj mnie```.
 4. Soszjal bot odezwie się do Ciebie w rozmowie prywatnej - odpowiedz mu! :)
 
 ### Dostępne polecenia
