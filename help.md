@@ -17,7 +17,7 @@ To polecenie, jak zaczynające się od "@Soszjal" trzeba napisać na rozmowie gr
 
 #### Zapisanie się na powiadomienia
 
-**Wersja 'szybka':**
+_Wersja 'szybka':_
 ```
 @Soszjal powiadamiaj mnie na skype gdy owoce
 ```
@@ -33,7 +33,7 @@ Zamiast 'owoce' możesz się zapisać oczywiście na dowolne dostępne powiadomi
 
 (Jeżeli jesteś zainteresowana/y powiadomieniami na komórkę lub Slacka Twojego projektu daj [mi](mailto:marek.labuzek@intive.com) znać.)
 
-**Wersja 'sekretna':**
+_Wersja 'sekretna':_
 ```
 @Soszjal powiadamiaj mnie
 ```
