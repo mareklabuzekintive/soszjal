@@ -68,6 +68,7 @@ If you have any further questions - see below.
 
 ### Thanks
 
+- To Magda and Ania for cooperaton and openness to 'office innovations'.
 - To Karol Żukowski for testing the bot and all talks how to make your experience with it as good as possible!
 - To Andrzej Rygol for interest and last minute testing.
 - To all who responded to initial poll to express support for this initiative.
