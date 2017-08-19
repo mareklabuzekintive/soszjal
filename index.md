@@ -33,7 +33,7 @@ Thus, all usual chit-chat is not sent to the bot.
 
 - How do I subscribe to notifications?
 
-To subscribe to a notification, you need to write a message on our group conversation mentioning the bot, e.g. 
+To subscribe to a notification, you need to write a message on our group conversation mentioning the bot (see [help page](help) for detailed description), e.g. 
 ```
 @Soszjal powiadamiaj mnie gdy owoce na moj.email@server.com
 ```
@@ -47,13 +47,13 @@ It's possible also to do it more secretely:
 ```
 @Soszjal powiadamiaj mnie
 ```
--- bot will ask about an event to notify and a notification channel and contact data in a 1-1 conversation.
+-- bot will ask about an event to notify and a notification channel in a 1-1 conversation.
 
-**IMPORTANT NOTE**: for this to work you need to add chatbot 'Soszjal' to your Skype contacts. 
+**IMPORTANT NOTE**: for this to work you need to add Soszjal chatbot to your Skype contacts. 
 
-Right click one of the bot logo in the history of the chat and select from the menu 'add to contacts'.
+Right click one of Soszjal bot logo in the history of the chat and select from the menu 'add to contacts'.
 
-Tip: There is also option to "Add to favourites" to have it always at hand.
+Tip: There is also option to "Add to favourites" to have it always at hand - to easily send private commands to it, see [help page](help) for more info.
 
 
 (Because Soszjal is designed to handle many groups, you need to start subscription on a group conversation - if you have any ideas here, let me know).
