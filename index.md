@@ -1,9 +1,9 @@
 ## Welcome to Soszjal bot page!
 
-Some time ago I [wrote](history) on our SMT Soszjal skype group conversation about adding a bot to it and run a poll about it, see also [here](history) about the results.
+Some time ago I [wrote](history) on our 'SMT Soszjal' Skype conversation about adding a bot to it and run a poll about it, see also [here](history) about the results.
 Fast forward to today and the bot is implemented, tested with Magda and Ania and ready to be deployed!
 
-This page is to give you a heads-up before adding bot to our office group conversation and collect your last feedback - so go through it and let me know if you have any further questions or ideas.
+This page is to give you a heads-up before adding bot to our conversation and collect your last feedback - so go through it and let me know if you have any further questions or ideas.
 
 ### FAQ / quick start-up guide
 
@@ -16,7 +16,7 @@ And by that occasion some are having fun in a nice project too! ;)
 
 - How is it working?
 
-To our office skype conversation, a bot account will be added (nick name "Soszjal") that is handled by a program written by us specially for that purpose.
+To our conversation, a bot account will be added (nick name "Soszjal") that is handled by a program written by us specially for that purpose.
 
 By sending a message to a bot, it will be possible to subscribe for notifications to an arbitrary email address or as private skype message. We are planning to provide possibility to add notifications to your Slack group. If you are interested in receiving sms notifications on your mobile phone, let me know (see contact section at the bottom).
 
@@ -34,15 +34,27 @@ Thus, all usual chit-chat is not sent to the bot.
 - How do I subscribe to notifications?
 
 To subscribe to a notification, you need to write a message on a group mentioning the bot, e.g. 
-"@Soszjal powiadamiaj mnie gdy owoce"
-Bot will ask about the details of the way how to notify user - in a private (1-1) conversation on skype
-BUT first you need to add Soszjal bot to your contacts (right click it's logo).
+```
+@Soszjal powiadamiaj mnie gdy owoce na moj.email@server.com
+```
+or
+```
+@Soszjal powiadamiaj mnie gdy owoce na skype
+```
+(interested in mobile phone / Slack notifications? - let me know)
 
-It's possible also to do it quicker:
-"@Soszjal powiadamiaj mnie gdy owoce na moj.email@intive.com"
+It's possible also to do it more secretely:
+```
+@Soszjal powiadamiaj mnie
+```
+-- bot will ask about event to notify and a notification channel and contact data in a 1-1 conversation.
 
-or more secretly:
-"@Soszjal powiadamiaj mnie" - bot will ask about event to notify and a channel in a 1-1 conversation.
+IMPORTANT NOTE: for this to work you need to add chatbot 'Soszjal' to your Skype contacts. 
+
+Right click one of the bot logo in the history of the chat and select from the menu 'add to contacts'.
+
+Tip: There is also option to "Add to favourites" to have it always at hand.
+
 
 (Beacuse Soszjal is designed to handle many groups, you need to start subscription on a group conversation - if you have any ideas here, let me know).
 
@@ -52,12 +64,10 @@ Find a message from Soszjal bot in the history of our group conversation and cli
 
 Alternatively visit the [help page](help).
 
-Tip: Right click the logo and select "Add to favourites" to have it always at hand.
-
 If you have any further questions - see below.
 
 ### Further questions and contact
 
-Find me on our skype for Business or our company email (marek.labuzek@intive.com), classic skype at marek_lab.
+Write an email to me (marek.labuzek@intive.com) of find me on our skype for Business or classic Skype at marek_lab.
 
 Marek Łabuzek
