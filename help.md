@@ -2,6 +2,7 @@
 
 ### Szybki start
 
+0. **SUPER WAŻNE**: Dodaj bota do kontaktów - prawo-kliknij na jego ikonę w historii rozmowy SMT Soszjala.
 1. Na kanale grupowym napisz znak '@', kliknij 'Soszjal' na pop-up'ie który się pojawi (lub napisz całą nazwę 'Soszjal' + spacja) a potem dopisz ```pokaż wszystkie powiadomienia```.
 2. Sprawdź czy jest powiadomienie, którym jesteś zainteresowana/y.
 3. Na kanale grupowym: '@' + Soszjal i dopisz ```powiadamiaj mnie```.
