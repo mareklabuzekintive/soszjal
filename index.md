@@ -1,9 +1,11 @@
 ## Welcome to Soszjal bot page!
 
-Some time ago I [wrote](history) on our 'SMT Soszjal' Skype conversation about adding a bot to it and run a poll about it, see also [here](history) about the results.
-Fast forward to today and the bot is implemented, tested with Magda and Ania and ready to be deployed!
+On our Soszjal skype channel (group conversation), we have a bot facilitating personalized distribution of announcements.
 
-This page is to give you a heads-up before adding bot to our conversation and collect your last feedback - so go through it and let me know if you have any further questions or ideas.
+Contents:
+- [history](history)
+- [help](help)
+- [releases](releases)
 
 ### FAQ / quick start-up guide
 
