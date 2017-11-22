@@ -1,3 +1,10 @@
+## Note before release 1.0
+
+Some time ago I wrote (see below) on our 'SMT Soszjal' Skype conversation about adding a bot to it and run a poll about it, see also [here](history) about the results.
+Fast forward to today and the bot is implemented, tested with Magda and Ania and ready to be deployed!
+
+This page is to give you a heads-up before adding bot to our conversation and collect your last feedback - so go through it and let me know if you have any further questions or ideas.
+
 ## Long long time ago...
 
 On 23rd Feb I wrote on our 'SMT Soszjal' skype conversation:
